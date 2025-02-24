@@ -1,6 +1,6 @@
 ## Acknowledgements
 
-Design inspired by [Original Design Title](https://www.figma.com/community/file/1227187978327770473) by [Aarondio](https://www.figma.com/@aarondio).
+Design inspired by [Hotel website + mobile app](https://www.figma.com/community/file/1227187978327770473) by [Aarondio](https://www.figma.com/@aarondio).
 
 ## Project View
 
