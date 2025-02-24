@@ -1225,17 +1225,17 @@
 
 <body>
 
-    @include('section.navbar')
+    @include('frontend.navbar')
 
-    @include('section.hero')
+    @include('frontend.hero')
 
-    @include('section.facilities')
+    @include('frontend.facilities')
 
-    @include('section.luxurious_room')
+    @include('frontend.luxurious_room')
 
-    @include('section.testimonials')
+    @include('frontend.testimonials')
 
-    @include('section.footer')
+    @include('frontend.footer')
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/js/all.min.js"
         integrity="sha512-b+nQTCdtTBIRIbraqNEwsjB6UvL3UEMkXnhzd8awtCYh0Kcsjl9uEgwVFVbhoj3uu1DO1ZMacNvLoyJJiNfcvg=="

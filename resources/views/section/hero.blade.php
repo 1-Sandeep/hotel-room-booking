@@ -1,5 +1,5 @@
 <main class="  bg-[#FAFAFA] ">
-    <div class="max-w-[1512px] mx-auto flex-col md:flex-row justify-between items-center flex px-6">
+    <div class="max-w-[1400px] mx-auto flex-col md:flex-row justify-between items-center flex px-6">
         <!-- Left Side -->
         <div class="md:w-1/2 space-y-6 ">
             <span class="font-dancing-script font-semibold text-5xl text-[#7C6A46]">Paradise View</span>

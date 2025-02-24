@@ -1,6 +1,6 @@
 <footer class="bg-[#7C6A46] py-4">
     <div
-        class="max-w-[1512px] mx-auto flex flex-col md:flex-row justify-between items-start md:items-center px-6 gap-y-8 md:gap-y-0">
+        class="max-w-[1400px] mx-auto flex flex-col md:flex-row justify-between items-start md:items-center px-6 gap-y-8 md:gap-y-0">
 
         <div class="w-full md:w-1/4"> {{-- Reduced width --}}
             {{-- Company Name and Description --}}

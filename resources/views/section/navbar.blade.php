@@ -1,4 +1,4 @@
-<nav class="max-w-[1512px] h-[120px] mx-auto flex items-center justify-between bg-white px-6">
+<nav class="max-w-[1400px] h-[120px] mx-auto flex items-center justify-between bg-white px-6">
     <!-- Logo -->
     <img src="{{ asset('assets/logo.png') }}" alt="Logo" class="h-10">
 

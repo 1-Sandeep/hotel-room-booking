@@ -1,5 +1,5 @@
 {{-- Facilities --}}
-<section class="max-w-[1512px] mx-auto flex flex-col items-center text-center py-16 px-6 bg-white">
+<section class="max-w-[1400px] mx-auto flex flex-col items-center text-center py-16 px-6 bg-white">
     {{-- Section Header --}}
     <div class="mb-12">
         <h2 class="font-poppins font-medium text-[40px] text-[#7C6A46]">
@@ -15,7 +15,7 @@
 
         {{-- Facility Cards --}}
         <div
-            class="w-[280px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
+            class="w-[250px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
                     transition-all duration-300 ease-in-out hover:bg-[#7C6A46] hover:text-white transform hover:scale-105 group">
             <i class="fa-solid fa-water text-4xl text-[#7C6A46] group-hover:text-white transition-all duration-300"></i>
             <h3
@@ -25,7 +25,7 @@
         </div>
 
         <div
-            class="w-[280px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
+            class="w-[250px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
                     transition-all duration-300 ease-in-out hover:bg-[#7C6A46] hover:text-white transform hover:scale-105 group">
             <i class="fa-solid fa-wifi text-4xl text-[#7C6A46] group-hover:text-white transition-all duration-300"></i>
             <h3
@@ -35,7 +35,7 @@
         </div>
 
         <div
-            class="w-[280px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
+            class="w-[250px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
                     transition-all duration-300 ease-in-out hover:bg-[#7C6A46] hover:text-white transform hover:scale-105 group">
             <i
                 class="fa-solid fa-utensils text-4xl text-[#7C6A46] group-hover:text-white transition-all duration-300"></i>
@@ -46,7 +46,7 @@
         </div>
 
         <div
-            class="w-[280px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
+            class="w-[250px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
                     transition-all duration-300 ease-in-out hover:bg-[#7C6A46] hover:text-white transform hover:scale-105 group">
             <i
                 class="fa-solid fa-dumbbell text-4xl text-[#7C6A46] group-hover:text-white transition-all duration-300"></i>
@@ -57,7 +57,7 @@
         </div>
 
         <div
-            class="w-[280px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
+            class="w-[250px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
                     transition-all duration-300 ease-in-out hover:bg-[#7C6A46] hover:text-white transform hover:scale-105 group">
             <i
                 class="fa-solid fa-gamepad text-4xl text-[#7C6A46] group-hover:text-white transition-all duration-300"></i>
@@ -68,7 +68,7 @@
         </div>
 
         <div
-            class="w-[280px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
+            class="w-[250px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
                     transition-all duration-300 ease-in-out hover:bg-[#7C6A46] hover:text-white transform hover:scale-105 group">
             <i class="fa-solid fa-bolt text-4xl text-[#7C6A46] group-hover:text-white transition-all duration-300"></i>
             <h3
@@ -78,7 +78,7 @@
         </div>
 
         <div
-            class="w-[280px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
+            class="w-[250px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
                     transition-all duration-300 ease-in-out hover:bg-[#7C6A46] hover:text-white transform hover:scale-105 group">
             <i class="fa-solid fa-soap text-4xl text-[#7C6A46] group-hover:text-white transition-all duration-300"></i>
             <h3
@@ -88,7 +88,7 @@
         </div>
 
         <div
-            class="w-[280px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
+            class="w-[250px] h-[250px] bg-[#FAFAFA] p-6 rounded-md flex flex-col items-center justify-center text-center space-y-4
                     transition-all duration-300 ease-in-out hover:bg-[#7C6A46] hover:text-white transform hover:scale-105 group">
             <i class="fa-solid fa-car text-4xl text-[#7C6A46] group-hover:text-white transition-all duration-300"></i>
             <h3
