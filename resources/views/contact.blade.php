@@ -1227,13 +1227,7 @@
 
     @include('frontend.navbar')
 
-    @include('frontend.hero')
 
-    @include('frontend.facilities')
-
-    @include('frontend.luxurious_room')
-
-    @include('frontend.testimonials')
 
     @include('frontend.footer')
 
